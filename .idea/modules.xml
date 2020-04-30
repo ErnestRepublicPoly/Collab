@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collab.iml" filepath="$PROJECT_DIR$/Collab.iml" group="Collab" />
+      <module fileurl="file://$PROJECT_DIR$/app/Collab-app.iml" filepath="$PROJECT_DIR$/app/Collab-app.iml" group="Collab/app" />
       <module fileurl="file://$PROJECT_DIR$/TW-ListView.iml" filepath="$PROJECT_DIR$/TW-ListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
